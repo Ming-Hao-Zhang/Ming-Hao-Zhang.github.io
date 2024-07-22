@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a third year undergraduate student from [College of Nuclear Science and Technology](https://lenp.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/). My research interest includes fusion reaction, multi-nucleon transfer reaction and machine learning.
+I'm a third year Ph.D student from [College of Nuclear Science and Technology](https://lenp.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/). My research interest includes fusion reaction, multi-nucleon transfer reaction and machine learning.
 
 I am very fortunate to be advised by [Prof. Feng-Shou Zhang](https://lenp.bnu.edu.cn/szdw/zzry/jsyjy/19773.html) of The Key Laboratory of Beam Technology of Ministry of Education from [College of Nuclear Science and Technology](https://lenp.bnu.edu.cn/), Beijing Normal University.
 
