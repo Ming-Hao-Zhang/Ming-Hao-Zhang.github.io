@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "image.png"
   name             : "Ming-Hao Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/him"  
   bio              : "A Ph.d student focusing on the theoretical predictions of superheavy region."
   location         : "Beijing"
-  employer         : "Beijing Normal University University"
+  employer         : "Beijing Normal University"
   uri              : # URL
   email            : "mhzhang@mail.bnu.edu.cn" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-0777-7848"
   semantic         : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Minghao-Zhang-16"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
