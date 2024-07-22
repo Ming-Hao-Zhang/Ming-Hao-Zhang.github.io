@@ -1,5 +1,12 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-About me
 ======
 I'm a third year undergraduate student from [College of Nuclear Science and Technology](https://lenp.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/). My research interest includes fusion reaction, multi-nucleon transfer reaction and machine learning.
 
