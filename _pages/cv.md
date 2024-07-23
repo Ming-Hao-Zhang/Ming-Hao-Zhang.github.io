@@ -21,7 +21,6 @@ Skills
     * Di-nuclear system (DNS) model
     * Boltzmann-Langevin (BLE) model
     * Isospin dependent Quantum Molecular Dynamics (IQMD) model
-    * 
 * Programing
   * Data processing and visualization using Python.
   * Fortran programing.
