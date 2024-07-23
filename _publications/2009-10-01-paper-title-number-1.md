@@ -1,5 +1,5 @@
 ---
-title: "Possibilities for the synthesis of superheavy element Z = 121 in fusion reactions"
+title: "Progress in transport models of heavy-ion collisions for the synthesis of superheavy nuclei"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2024-06-18
