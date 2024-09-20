@@ -8,4 +8,4 @@ paperurl: 'https://link.springer.com/article/10.1007/s41365-024-01542-x'
 citation: 'Zhang, Ming-Hao, et al. "Possibility of reaching the predicted center of the “island of stability” via the radioactive beam-induced fusion reactions."  Nuclear Science and Techniques 36.9 (2024): 95.'
 ---
 
-The synthesis of the predicted double-magic nuclei $^{298}$Fl and $^{304}$120 was investigated via neutron-rich radioactive beam-induced fusion reactions. This work was reported by [phys.org](https://phys.org/news/2024-09-fusion-reactions-superheavy-nuclei-unique.html)
+The possible fusion reactions for synthesizing new double magic nucleus are investigated, with optimal reaction energy and evaporation residue cross section being predicted. This work was reported by [phys.org](https://phys.org/news/2024-09-fusion-reactions-superheavy-nuclei-unique.html)
