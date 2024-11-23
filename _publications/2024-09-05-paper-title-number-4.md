@@ -9,4 +9,4 @@ citation: 'Zhang, Ming-Hao, et al. "Possibility of reaching the predicted center
 excerpt: "<br/><img src='/images/20241124021553.jpg' style='width:50%;'>"
 ---
 
-The possible fusion reactions for synthesizing new double magic nucleus are investigated, with optimal reaction energy and evaporation residue cross section being predicted. This work was reported by [phys.org](https://phys.org/news/2024-09-fusion-reactions-superheavy-nuclei-unique.html)
+The possible fusion reactions for synthesizing new double magic nucleus are investigated, with optimal reaction energy and evaporation residue cross section being predicted. This paper has been selected as the Cover Article for this issue of Nuclear Science and Techniques, and reported by [phys.org](https://phys.org/news/2024-09-fusion-reactions-superheavy-nuclei-unique.html)
