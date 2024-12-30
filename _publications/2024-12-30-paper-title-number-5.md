@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-12-30-paper-title-number-5
 date: 2024-12-30
 venue: 'December 30'
-paperurl: '[https://link.springer.com/article/10.1007/s41365-024-01542-x](https://iopscience.iop.org/article/10.1088/1674-1137/ada3cc)'
+paperurl: '[https://iopscience.iop.org/article/10.1088/1674-1137/ada3cc]'
 citation: 'Zhang, Ming-Hao, et al. "Predictions for the synthesis of new superheavy nuclei with 252Cf target."  Chinese Physics C 36.9 (2024): 95.'
 ---
 
