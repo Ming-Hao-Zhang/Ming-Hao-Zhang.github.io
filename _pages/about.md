@@ -13,4 +13,4 @@ I'm a third year Ph.D student from [College of Nuclear Science and Technology](h
 I am very fortunate to be advised by [Prof. Feng-Shou Zhang](https://lenp.bnu.edu.cn/szdw/zzry/jsyjy/19773.html) of The Key Laboratory of Beam Technology of Ministry of Education from [College of Nuclear Science and Technology](https://lenp.bnu.edu.cn/), Beijing Normal University.
 
 
-[Email](mhzhang@mail.bnu.edu.cn) / [Github](https://github.com/Ming-Hao-Zhang) / [ORCID](https://orcid.org/0009-0004-0777-7848) / [Google Scholar](https://scholar.google.com/citations?user=pcMFp34AAAAJ&hl=en&oi=ao)
+[Github](https://github.com/Ming-Hao-Zhang) / [ORCID](https://orcid.org/0009-0004-0777-7848) / [Google Scholar](https://scholar.google.com/citations?user=pcMFp34AAAAJ&hl=en&oi=ao)
