@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ming-Hao Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ming-Hao Zhang"
 description              : &description "personal description"
 url                      : https://ming-hao-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "image.png"
   name             : "Ming-Hao Zhang"
   pronouns         : "He/him"  
-  bio              : "A Ph.D student focusing on the theoretical predictions of superheavy region."
+  bio              : "A Ph.D focusing on the theoretical predictions of superheavy region."
   location         : "Beijing"
   employer         : "Beijing Normal University"
   uri              : # URL
