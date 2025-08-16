@@ -1,5 +1,5 @@
 ---
-title: "Predictions for the synthesis of new superheavy nuclei with 252Cf target"
+title: "Predictions for the synthesis of new superheavy nuclei with <sup>252</sup>Cf target"
 collection: publications
 permalink: /publication/2024-12-30-paper-title-number-5
 date: 2024-11-28
