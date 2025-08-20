@@ -32,8 +32,7 @@ author_profile: true
   A program package for solving boundary-value problems for systems of coupled Schrödinger equations.
 
 - **[HIVAP Code](http://www.imqmd.com/download.html)**  
-  A statistical evaporation code (Heavy-Ion VAPoration, HIVAP) widely used for calculating fusion-evaporation cross sections and predicting production cross sections of heavy and superheavy nuclei :contentReference[oaicite:0]{index=0}.
-
+  A statistical evaporation code (Heavy-Ion VAPoration, HIVAP) widely used for calculating fusion-evaporation cross sections and predicting production cross sections of heavy and superheavy nuclei.
 ---
 
 ##  ​ Tools & Data Display
