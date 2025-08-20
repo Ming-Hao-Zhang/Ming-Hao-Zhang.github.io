@@ -29,6 +29,10 @@ author_profile: true
 
 - **[HIVAP Code](http://www.imqmd.com/download.html)**  
   A statistical evaporation code (Heavy-Ion VAPoration, HIVAP) widely used for calculating fusion-evaporation cross sections and predicting production cross sections of heavy and superheavy nuclei.
+
+  - **[Reaction Codes Collection](https://people.frib.msu.edu/~brown/reaction-codes/home.html)** 
+  A curated collection of nuclear reaction codes maintained by B.A. Brown at FRIB/MSU. Provides links and descriptions of numerous computational tools for nuclear reaction studies.
+
 ---
 
 ##  ​ Tools & Data Display
@@ -37,4 +41,20 @@ author_profile: true
   Cross-platform tool from the Atomic Mass Data Center (AMDC) for visualizing nuclear properties—mass, spin, parity, decay modes, half-life, isotopic abundance, etc.
 
 ---
+
+## More Resources in the Following Homepage
+
+- [IMQMD Group](http://www.imqmd.com/)  
+
+- [Kazuyuki Sekizawa](https://sekizawa.fizyka.pw.edu.pl/english/index.html)  
+
+- [Ruslan Magana Vsevolodovna](https://science-ruslan.weebly.com/about.html)  
+
+- [Wataru Yamaguti](https://www.rcnp.osaka-u.ac.jp/~yamaguti/wyama_RIKEN/wyama/index.html)  
+
+- [Jie Meng](https://pkunuclear.github.io/people/jmeng.html)
+
+- [Vishal Parmar](https://sites.google.com/view/vishal-parmar)  
+
+
 
