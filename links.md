@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Useful Links"
 permalink: /links/
 author_profile: true
