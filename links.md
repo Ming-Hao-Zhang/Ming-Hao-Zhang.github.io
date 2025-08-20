@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Useful Links"
-author_profile: true
 permalink: /links/
+author_profile: true
 ---
 
 #  Useful Links
