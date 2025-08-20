@@ -16,7 +16,17 @@ main:
     url: /cv/
     
   - title: "Links"
-    url: /year-archive/ 
+    children:
+      - title: "Google Scholar"
+        url: "https://scholar.google.com/"
+      - title: "arXiv"
+        url: "https://arxiv.org/"
+      - title: "Inspire HEP"
+        url: "https://inspirehep.net/"
+      - title: "GitHub"
+        url: "https://github.com/"    
+#  - title: "Blogs"
+#    url: /year-archive/ 
     
 #  - title: "Guide"
 #    url: /markdown/
