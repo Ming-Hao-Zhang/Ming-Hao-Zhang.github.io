@@ -5,10 +5,6 @@ permalink: /links/
 author_profile: true
 ---
 
-#  Useful Links
-
-
----
 
 ##  Open-source Codes
 
