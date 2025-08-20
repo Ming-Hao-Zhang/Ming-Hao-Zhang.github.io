@@ -16,15 +16,7 @@ main:
     url: /cv/
     
   - title: "Links"
-    children:
-      - title: "Google Scholar"
-        url: "https://scholar.google.com/"
-      - title: "arXiv"
-        url: "https://arxiv.org/"
-      - title: "Inspire HEP"
-        url: "https://inspirehep.net/"
-      - title: "GitHub"
-        url: "https://github.com/"    
+    url: /links/    
 #  - title: "Blogs"
 #    url: /year-archive/ 
     
