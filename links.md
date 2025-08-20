@@ -1,16 +1,31 @@
 ---
-title: "Investigation on the synthesis of superheavy elements with Z =119-121"
-collection: talks
-type: "the 7th International Workshop on Nuclear Dynamics in Heavy-Ion Reactions (IWND2024)"
-permalink: /talks/2012-03-01-talk-1
-venue: "Sun Yat-sen University"
-date: 2024-04-21
-location: "Zhuhai, China"
+layout: page
+title: "Useful Links"
+permalink: /links/
 ---
 
-[More information here](https://iwnd2024.scievent.com/)
+# 🔗 Useful Links
 
-<br/><img src='/images/DSC08703.jpg' style='width:100%;'>
+这里整理了一些常用的开源核物理计算代码和资源。
 
-In this work we predict the optimal reaction systems for synthesizing superheavy elements with proton number from 119 to 121.
+---
+
+## ⚛️ Open-source Codes
+
+- **[IQMD Model](https://www.scidb.cn/en/detail?dataSetId=d198f93bff464a3c80e0e02485ef1304)**  
+  Isospin Quantum Molecular Dynamics model (IQMD) for simulating heavy-ion collisions.
+
+- **[UrQMD Model](https://itp.uni-frankfurt.de/~bleicher/index.html?content=urqmd)**  
+  Ultra-relativistic Quantum Molecular Dynamics model for simulating high-energy nuclear collisions.
+
+- **[CCFULL](https://www2.yukawa.kyoto-u.ac.jp/~kouichi.hagino/ccfull.html)**  
+  Coupled-channels code for heavy-ion fusion reactions.
+
+- **TDHF (Time-dependent Hartree-Fock)**
+  - [Sky3D GitHub](https://github.com/manybody/sky3d)  
+    Implementation of the TDHF method in 3D.  
+  - [Mendeley Data package](https://data.mendeley.com/datasets/vzbrzvyrn4/2)  
+    Supporting datasets and additional resources.
+
+---
 
