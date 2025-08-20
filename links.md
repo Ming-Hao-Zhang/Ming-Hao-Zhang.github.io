@@ -21,9 +21,9 @@ author_profile: true
 - **[CCFULL](https://www2.yukawa.kyoto-u.ac.jp/~kouichi.hagino/ccfull.html)**  
   Coupled-channels code for heavy-ion fusion reactions.
 
-- **TDHF (Time-dependent Hartree-Fock)**  
-  - [Sky3D GitHub](https://github.com/manybody/sky3d) — Implementation of the TDHF method in 3D.  
-  - [Mendeley Data package](https://data.mendeley.com/datasets/vzbrzvyrn4/2) — Supporting datasets and additional resources.
+- **TDHF model** [Sky3D GitHub](https://github.com/manybody/sky3d) [Mendeley Data package](https://data.mendeley.com/datasets/vzbrzvyrn4/2)  
+  A 3D Time-Dependent Hartree-Fock model used to simulate heavy-ion collisions, nuclear vibrations, and other nuclear dynamics. Provides source code and supporting datasets for reproducible research.
+
 
 - **[KEWPIE2](https://data.mendeley.com/datasets/jpr32dzp8g/1)**  
   A code designed for the study of heavy and superheavy nuclei, focusing on evaporation processes.
