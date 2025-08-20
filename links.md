@@ -21,11 +21,9 @@ author_profile: true
 - **[CCFULL](https://www2.yukawa.kyoto-u.ac.jp/~kouichi.hagino/ccfull.html)**  
   Coupled-channels code for heavy-ion fusion reactions.
 
-- **TDHF (Time-dependent Hartree-Fock)**
-  - [Sky3D GitHub](https://github.com/manybody/sky3d)  
-    Implementation of the TDHF method in 3D.  
-  - [Mendeley Data package](https://data.mendeley.com/datasets/vzbrzvyrn4/2)  
-    Supporting datasets and additional resources.
+- **TDHF (Time-dependent Hartree-Fock)**  
+  - [Sky3D GitHub](https://github.com/manybody/sky3d) — Implementation of the TDHF method in 3D.  
+  - [Mendeley Data package](https://data.mendeley.com/datasets/vzbrzvyrn4/2) — Supporting datasets and additional resources.
 
 - **[KEWPIE2](https://data.mendeley.com/datasets/jpr32dzp8g/1)**  
   A code designed for the study of heavy and superheavy nuclei, focusing on evaporation processes.
@@ -33,6 +31,15 @@ author_profile: true
 - **[KANTBP 3.1](https://data.mendeley.com/datasets/4vm9fhyvh3/1)**  
   A program package for solving boundary-value problems for systems of coupled Schrödinger equations.
 
+- **[HIVAP Code](http://www.imqmd.com/download.html)**  
+  A statistical evaporation code (Heavy-Ion VAPoration, HIVAP) widely used for calculating fusion-evaporation cross sections and predicting production cross sections of heavy and superheavy nuclei :contentReference[oaicite:0]{index=0}.
+
+---
+
+##  ​ Tools & Data Display
+
+- **[NucleusPlus](https://amdc.impcas.ac.cn/web/nubcleus%202_en.html)**  
+  Cross-platform tool from the Atomic Mass Data Center (AMDC) for visualizing nuclear properties—mass, spin, parity, decay modes, half-life, isotopic abundance, etc.
 
 ---
 
