@@ -27,5 +27,9 @@ permalink: /links/
   - [Mendeley Data package](https://data.mendeley.com/datasets/vzbrzvyrn4/2)  
     Supporting datasets and additional resources.
 
+- **[KEWPIE2](https://data.mendeley.com/datasets/jpr32dzp8g/1)**  
+  A code designed for the study of heavy and superheavy nuclei, focusing on evaporation processes.
+
+
 ---
 
