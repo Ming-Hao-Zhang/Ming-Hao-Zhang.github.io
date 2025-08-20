@@ -6,11 +6,10 @@ permalink: /links/
 
 # 🔗 Useful Links
 
-这里整理了一些常用的开源核物理计算代码和资源。
 
 ---
 
-## ⚛️ Open-source Codes
+##  Open-source Codes
 
 - **[IQMD Model](https://www.scidb.cn/en/detail?dataSetId=d198f93bff464a3c80e0e02485ef1304)**  
   Isospin Quantum Molecular Dynamics model (IQMD) for simulating heavy-ion collisions.
