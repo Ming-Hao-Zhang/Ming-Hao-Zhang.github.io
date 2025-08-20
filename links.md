@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Useful Links"
 permalink: /links/
 author_profile: true
