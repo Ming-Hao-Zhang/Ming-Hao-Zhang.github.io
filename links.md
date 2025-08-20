@@ -42,7 +42,7 @@ author_profile: true
 
 ---
 
-## More Resources in the Following Homepage
+## More Resources in the Following Homepages
 
 - [IMQMD Group](http://www.imqmd.com/)  
 
