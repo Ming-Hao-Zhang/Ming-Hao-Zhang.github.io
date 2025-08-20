@@ -44,7 +44,7 @@ author_profile: true
 
 ## More Resources in the Following Homepages
 
-- [IMQMD Group](http://www.imqmd.com/)  
+- [ImQMD Group](http://www.imqmd.com/)  
 
 - [Kazuyuki Sekizawa](https://sekizawa.fizyka.pw.edu.pl/english/index.html)  
 
