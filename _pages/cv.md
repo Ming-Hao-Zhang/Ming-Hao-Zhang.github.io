@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Beijing Normal University, 2025 (expected)
+* Ph.D in Beijing Normal University, 2025
 * B.S. in Beijing Normal University, 2019
 
   
@@ -25,6 +25,7 @@ Skills
   * Data processing and visualization using Python.
   * Fortran programing.
   * Experienced in parallel computing.
+  * Applied Bayesian Ridge Regression and other ML techniques for predictive modeling.
 
 Publications
 ======
