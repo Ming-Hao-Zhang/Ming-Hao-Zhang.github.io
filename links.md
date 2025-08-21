@@ -30,7 +30,7 @@ author_profile: true
 - **[HIVAP Code](http://www.imqmd.com/download.html)**  
   A statistical evaporation code (Heavy-Ion VAPoration, HIVAP) widely used for calculating fusion-evaporation cross sections and predicting production cross sections of heavy and superheavy nuclei.
 
-  - **[Reaction Codes Collection](https://people.frib.msu.edu/~brown/reaction-codes/home.html)** 
+- **[Reaction Codes Collection](https://people.frib.msu.edu/~brown/reaction-codes/home.html)** 
   A curated collection of nuclear reaction codes maintained by B.A. Brown at FRIB/MSU. Provides links and descriptions of numerous computational tools for nuclear reaction studies.
 
 ---
