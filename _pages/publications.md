@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- Academic Service Section -->
 <div class="wordwrap">
-  <strong>Academic Service:</strong> Reviewer for <em><a href="https://www.springer.com/journal/11053">Nuclear Science and Engineering</a></em>
+  <strong>Academic Service:</strong> Reviewer for <em><a href="https://www.tandfonline.com/journals/unse20">Nuclear Science and Engineering</a></em>
 </div>
 
 {% for post in site.publications reversed %}
