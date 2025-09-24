@@ -1,11 +1,11 @@
 ---
-title: "Progress on the synthesis of superheavy nuclei"
+title: "Investigation of the isotopic dependence in the synthesis of superheavy nuclei with Plutonium and Curium targets"
 collection: publications
-permalink: /publication/2025-8-15-paper-title-number-5
-date: 2025-8-14
-venue: 'August 14'
-paperurl: 'https://link.springer.com/article/10.1007/s41365-025-01781-6'
-citation: 'Zhang, Ming-Hao, et al. "Progress on the synthesis of superheavy nuclei."   Nuclear Science and Techniques 36.11 (2025): 204.'
+permalink: /publication/2025-9-25-paper-title-number-5
+date: 2025-8-16
+venue: 'August 16'
+paperurl: '[https://link.springer.com/article/10.1007/s41365-025-01781-6](https://chinaxiv.org/abs/202508.00387?&locale=zh_CN)'
+citation: 'Zhang, Ming-Hao, et al. "Investigation of the isotopic dependence in the synthesis of superheavy nuclei with Plutonium and Curium targets."   accepted by Nuclear Science and Techniques'
 ---
 
-This review provides a comprehensive overview of the latest advancements in superheavy nuclei synthesis, focusing on both the experimental and theoretical developments. We summarizes the primary synthesis methods the experimental plans and theoretical predictions for synthesizing new superheavy elements. Future directions offering new pathways for discovering unknown superheavy nuclei are also discussed.
+The isotopic dependence of the Plutonium and Curium targets in the hot fusion reaction is investigated.
