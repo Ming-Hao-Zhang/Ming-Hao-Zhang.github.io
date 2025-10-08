@@ -35,13 +35,6 @@ author_profile: true
 
 ---
 
-##  ​ Tools & Data Display
-
-- **[NucleusPlus](https://amdc.impcas.ac.cn/web/nubcleus%202_en.html)**  
-  Cross-platform tool from the Atomic Mass Data Center (AMDC) for visualizing nuclear properties—mass, spin, parity, decay modes, half-life, isotopic abundance, etc.
-
----
-
 ## More Resources in the Following Homepages
 
 - [ImQMD Group](http://www.imqmd.com/)  
@@ -56,6 +49,29 @@ author_profile: true
 
 - [Vishal Parmar](https://sites.google.com/view/vishal-parmar)  
 
-- [Center for Nuclear Study (CNS), University of Tokyo](https://www.cns.s.u-tokyo.ac.jp/cns/en/)  
+- [Center for Nuclear Study (CNS), University of Tokyo](https://www.cns.s.u-tokyo.ac.jp/cns/en/)
+
+
+---
+
+##  ​ Tools
+
+- **[NucleusPlus](https://amdc.impcas.ac.cn/web/nubcleus%202_en.html)**  
+  Cross-platform tool from the Atomic Mass Data Center (AMDC) for visualizing nuclear properties—mass, spin, parity, decay modes, half-life, isotopic abundance, etc.
+
+- **[inkscape](https://inkscape.org/)**  
+
+- **[Anaconda](https://www.anaconda.com/download)**
+
+- **[Pycharm](https://www.jetbrains.com/pycharm/download/?section=windows)**
+
+- **[TeXstudio](https://www.texstudio.org/)**
+
+- **[TeX Live](https://tug.org/texlive/)**
+
+- **[Zotero](https://www.zotero.org/)**
+
+- **[Equation Editor](https://editor.codecogs.com/)**
+
 
 
