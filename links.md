@@ -47,11 +47,14 @@ author_profile: true
 
 - [Jie Meng](https://pkunuclear.github.io/people/jmeng.html)
 
-- [Vishal Parmar](https://sites.google.com/view/vishal-parmar)  
+- [Vishal Parmar](https://sites.google.com/view/vishal-parmar)
+
+- [Qi Chong](https://www.kth.se/profile/chongq/page/research-interests-4) 
 
 - [Center for Nuclear Study (CNS), University of Tokyo](https://www.cns.s.u-tokyo.ac.jp/cns/en/)
 
-
+- [NRV](http://nrv.jinr.ru/nrv/)
+- 
 ---
 
 ##  ​ Tools
@@ -59,7 +62,7 @@ author_profile: true
 - **[NucleusPlus](https://amdc.impcas.ac.cn/web/nubcleus%202_en.html)**  
   Cross-platform tool from the Atomic Mass Data Center (AMDC) for visualizing nuclear properties—mass, spin, parity, decay modes, half-life, isotopic abundance, etc.
 
-- **[inkscape](https://inkscape.org/)**  
+- **[Inkscape](https://inkscape.org/)**  
 
 - **[Anaconda](https://www.anaconda.com/download)**
 
