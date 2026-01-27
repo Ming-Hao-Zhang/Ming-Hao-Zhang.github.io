@@ -41,4 +41,4 @@ Talks
 
 Academic Service
 ======
-* Reviewer for *Nuclear Science and Engineering* and *Nuclear Physics and Atomic Energy*.
+* Reviewer for *Journal of Physics A: Mathematical and Theoretical*, *Nuclear Science and Engineering* and *Nuclear Physics and Atomic Energy*.
