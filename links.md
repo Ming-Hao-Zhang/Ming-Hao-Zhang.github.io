@@ -52,7 +52,6 @@ author_profile: true
 - [Qi Chong](https://www.kth.se/profile/chongq/page/research-interests-4) 
 
 - [Center for Nuclear Study (CNS), University of Tokyo](https://www.cns.s.u-tokyo.ac.jp/cns/en/)
-
 - [NRV](http://nrv.jinr.ru/nrv/)
 ---
 
