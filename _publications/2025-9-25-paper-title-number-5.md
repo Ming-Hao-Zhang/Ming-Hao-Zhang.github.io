@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-9-25-paper-title-number-5
 date: 2025-8-16
 venue: 'August 16'
-paperurl: 'https://chinaxiv.org/abs/202508.00387?&locale=zh_CN'
+paperurl: 'https://doi.org/10.1007/s41365-026-01937-y'
 citation: 'Zhang, Ming-Hao, et al. "Investigation of the isotopic dependence in the synthesis of superheavy nuclei with Plutonium and Curium targets."   accepted by Nuclear Science and Techniques'
 ---
 
