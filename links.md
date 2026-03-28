@@ -74,5 +74,6 @@ author_profile: true
 
 - **[Equation Editor](https://editor.codecogs.com/)**
 
-
+- **[Image Compress Tool](/compress/)**  
+  A purely local, browser-based image compression tool to resize images (e.g., degree certificates) under 2MB.
 
