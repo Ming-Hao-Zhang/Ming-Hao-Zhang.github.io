@@ -18,5 +18,5 @@ author_profile: true
 
 <!-- Academic Service Section -->
 <div class="wordwrap">
-  <strong>Academic Service:</strong> Reviewer for <em><a href="https://www.tandfonline.com/journals/unse20">Nuclear Science and Engineering</a></em> and <em><a href="https://jnpae.kinr.kyiv.ua/">Nuclear Physics and Atomic Energy</a></em>
+  <strong>Academic Service:</strong> Reviewer for <em><a href="https://iopscience.iop.org/journal/1751-8121">Journal of Physics A: Mathematical and Theoretical</a></em>, <em><a href="https://www.tandfonline.com/journals/unse20">Nuclear Science and Engineering</a></em> and <em><a href="https://jnpae.kinr.kyiv.ua/">Nuclear Physics and Atomic Energy</a></em>
 </div>
