@@ -51,6 +51,8 @@ author_profile: true
 
 - [Qi Chong](https://www.kth.se/profile/chongq/page/research-interests-4)
 
+- [Lei Jin](https://jinlei.fewbody.com/)
+
 - [Matthew Mumpower](https://www.matthewmumpower.com/)
 
 - [Center for Nuclear Study (CNS), University of Tokyo](https://www.cns.s.u-tokyo.ac.jp/cns/en/)
