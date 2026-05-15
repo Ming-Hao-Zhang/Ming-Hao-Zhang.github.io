@@ -49,7 +49,9 @@ author_profile: true
 
 - [Vishal Parmar](https://sites.google.com/view/vishal-parmar)
 
-- [Qi Chong](https://www.kth.se/profile/chongq/page/research-interests-4) 
+- [Qi Chong](https://www.kth.se/profile/chongq/page/research-interests-4)
+
+- [Matthew Mumpower](https://www.matthewmumpower.com/)
 
 - [Center for Nuclear Study (CNS), University of Tokyo](https://www.cns.s.u-tokyo.ac.jp/cns/en/)
 - [NRV](http://nrv.jinr.ru/nrv/)
