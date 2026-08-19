@@ -57,6 +57,8 @@ author_profile: true
 
 - [Lei Jin](https://jinlei.fewbody.com/)
 
+- [Wouter Ryssens](https://wryssens.gitlab-pages.ulb.be/)
+
 - [Matthew Mumpower](https://www.matthewmumpower.com/)
 
 - [Center for Nuclear Study (CNS), University of Tokyo](https://www.cns.s.u-tokyo.ac.jp/cns/en/)
